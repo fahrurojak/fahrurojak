@@ -5,7 +5,7 @@
 
 #### 1. [Universitas Nurtanio](https://www.unnur.ac.id/) | Informatics Engineering | Bandung `2021-present`
 
- #### 2. [SMA S 1 Nasional] | MIPA | Bandung `2017-2020`
+ #### 2. [SMAS Nasional] | MIPA | Bandung `2017-2020`
    
 
 ## Work Experience:
@@ -46,3 +46,5 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/fahruphoto#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/fahruphoto#gh-dark-mode-only)
 
+✉️ Email :gfahru5@gmail.com
+🔗 https://github.com/f4hru/f4hru
