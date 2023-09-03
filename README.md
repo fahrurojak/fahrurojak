@@ -4,8 +4,6 @@
 ## Education:
 
 #### 1. [Universitas Nurtanio](https://www.unnur.ac.id/) | Informatics Engineering | Bandung `2021-present`
-
- #### 2. [SMAS Nasional] | MIPA | Bandung `2017-2020`
    
 
 ## Work Experience:
