@@ -1,6 +1,7 @@
 # Hi, my name is Fahru 👋
 
-![Banner](https://img.freepik.com/free-vector/flat-design-web-development-banner_23-2148807897.jpg)
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/fahrurojak/fahrurojak/assets/65585044/a799beda-1fc9-41a6-a244-5ef627206f47)
+
 
 ## About Me
 
