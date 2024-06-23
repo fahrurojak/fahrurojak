@@ -44,7 +44,7 @@ Driven by a continuous desire to learn and grow, I actively seek opportunities t
   <a href="https://instagram.com/fahruphoto">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:gfahru5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
