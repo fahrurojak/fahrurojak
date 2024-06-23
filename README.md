@@ -1,6 +1,6 @@
 # Hi, my name is Fahru 👋
 
-![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/fahrurojak/fahrurojak/assets/65585044/a799beda-1fc9-41a6-a244-5ef627206f47)
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (2)](https://github.com/fahrurojak/fahrurojak/assets/65585044/6b5ee954-5c67-4c36-826a-c3d15b4ade70)
 
 ## About Me
 
@@ -13,18 +13,22 @@ Driven by a continuous desire to learn and grow, I actively seek opportunities t
 ## Skills
 
 ### Frontend Development
-- ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) HTML
-- ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) CSS
-- ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) React
-- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) Laravel
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+</div>
 
 ---
 
 ### Data Analysis
-- ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) Python
-- ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white) SQL
-- ![Spreadsheets](https://img.shields.io/badge/spreadsheets-%23FF9900.svg?style=for-the-badge&logo=google-sheets&logoColor=white) Spreadsheets
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/spreadsheets-%23FF9900.svg?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Spreadsheets"/>
+</div>
 
 ## Education
 
