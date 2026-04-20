@@ -4,11 +4,7 @@
 
 ## About Me
 
-I am a sixth-semester Informatics Engineering student with a passion for Frontend Development and Data Analytics. My skill set includes proficiency in HTML, CSS, and JavaScript, and I have hands-on experience with web application development using frameworks such as PHP, Laravel, and ReactJS.
-
-In Data Analytics, I am adept at utilizing Python for data analysis and data visualization, leveraging tools like Looker Studio to present insightful data-driven narratives.
-
-Driven by a continuous desire to learn and grow, I actively seek opportunities to contribute to innovative software development and data-driven projects. I thrive in collaborative environments where I can foster connections, share knowledge, and create impactful solutions.
+Fresh graduate in Informatics Engineering from Universitas Nurtanio Bandung with strong interest in Web Development and Data Analysis. Skilled in HTML, CSS, JavaScript, and SQL for web development, as well as in Excel, Looker Studio, and Google Colab for data processing and visualization. Open to career opportunities in the technology field and eager to keep learning and improving technical expertise.
 
 ## Skills
 
