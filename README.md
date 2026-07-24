@@ -1,46 +1,117 @@
-# Hi, my name is Fahru 👋
+# 👋 Hi, I'm Fahru Rojak
 
-![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (2)](https://github.com/fahrurojak/fahrurojak/assets/65585044/1df0ce23-b23e-45bb-9fe8-2a0b2eb9ff08)
+<p align="center">
+  <img src="https://github.com/fahrurojak/fahrurojak/assets/65585044/1df0ce23-b23e-45bb-9fe8-2a0b2eb9ff08" width="100%" />
+</p>
 
-## About Me
-
-Fresh graduate in Informatics Engineering from Universitas Nurtanio Bandung with strong interest in Web Development and Data Analysis. Skilled in HTML, CSS, JavaScript, and SQL for web development, as well as in Excel, Looker Studio, and Google Colab for data processing and visualization. Open to career opportunities in the technology field and eager to keep learning and improving technical expertise.
-
-## Skills
-
-### Frontend Development
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Fresh+Graduate+Informatics+Engineering;IT+Operations+%7C+IT+Support;Web+Developer+%7C+Data+Analyst" />
+</p>
 
 ---
 
-### Data Analysis
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Spreadsheets-FF9900?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Spreadsheets"/>
-</div>
+## 💡 About Me
 
-## Education
+Fresh Graduate in Informatics Engineering from **Universitas Nurtanio Bandung** with internship experience in **IT Operations**, **IT Support**, and **Information Systems** at **PT Kimia Farma Apotek** and **PT Dirgantara Indonesia**.
 
-- **Universitas Nurtanio**
-  - Major: Informatics Engineering - S1
+I enjoy solving problems, learning new technologies, and building web applications. I'm currently seeking opportunities in **IT Support**, **IT Operations**, **Web Development**, and **Data Analysis**.
 
-## 📫 How to reach me
+---
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/fahrurojak/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/fahruphoto">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:gfahru5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,laravel" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql,sqlite" />
+</p>
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
+
+### Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+---
+
+# 💼 Experience
+
+### PT Kimia Farma Apotek
+**IT Operations Intern**
+
+- IT Operations Support
+- Python Automation
+- Inventory Data Processing
+- Network Troubleshooting
+- User Acceptance Testing (UAT)
+
+### PT Dirgantara Indonesia
+
+**Information Systems Intern**
+
+- Web Development
+- Database Management
+- System Documentation
+- Data Validation
+
+---
+
+# 🎓 Education
+
+**Universitas Nurtanio Bandung**
+
+Bachelor of Informatics Engineering
+
+2021 — 2025
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fahrurojak&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrurojak&layout=compact&theme=transparent"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/fahrurojak">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gfahru5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/fahruphoto">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+*"Always learning, always improving."*
+
+</p>
